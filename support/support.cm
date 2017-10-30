@@ -1,0 +1,12 @@
+Library
+  library(lib.cm)
+  library(basis_ext.cm)
+  source(-)
+is
+  lib.cm
+  basis_ext.cm
+  
+  MEMOIZER.sig
+  MkMemoizer.sml
+
+  SEAMFIND.sig
